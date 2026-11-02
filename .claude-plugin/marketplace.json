@@ -86,7 +86,7 @@
     },
     {
       "name": "herdr-summary",
-      "description": "Label each Claude Code session's herdr agent row with a short Haiku summary of what it's working on.",
+      "description": "Keep each Claude Code session's title on what it's working on, so herdr's agents list names it.",
       "source": {
         "source": "git-subdir",
         "url": "basecamp/house-skills",

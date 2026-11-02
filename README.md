@@ -80,7 +80,7 @@ plugin. `bin/check-marketplace`, which CI runs, holds that rule: a
 | [security](https://github.com/basecamp/house-skills/tree/main/plugins/security) | GitHub Actions pipeline hardening and CI security. |
 | [ai](https://github.com/basecamp/house-skills/tree/main/plugins/ai) | Crafting agent skills and writing install documentation for autonomous execution. |
 | [recap](https://github.com/basecamp/house-skills/tree/main/plugins/recap) | Activity digests — pluggable source fetchers, timescale synthesis, audience-aware composition. |
-| [herdr-summary](https://github.com/basecamp/house-skills/tree/main/plugins/herdr-summary) | Label each Claude Code session's [herdr](https://herdr.dev) agent row with a short Haiku summary of what it's working on. |
+| [herdr-summary](https://github.com/basecamp/house-skills/tree/main/plugins/herdr-summary) | Keep each Claude Code session's title on what it's working on, so [herdr](https://herdr.dev)'s agents list names it. |
 
 ## About
 
